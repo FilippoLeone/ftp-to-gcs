@@ -1,0 +1,5 @@
+fastapi
+pyftpdlib
+pyOpenSSL
+pysendfile
+google-cloud-storage
